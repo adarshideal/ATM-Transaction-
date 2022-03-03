@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Shuvikash Patel
+ * @author Adarsh Singh Chauhan
  */
 public class Information extends javax.swing.JFrame {
 
