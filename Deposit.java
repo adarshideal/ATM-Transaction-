@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Shuvikash Patel
+ * @author Adarsh Chauhan
  */
 public class Deposit extends javax.swing.JFrame {
 
