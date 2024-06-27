@@ -7,7 +7,7 @@ package ATM;
 
 /**
  *
- * @author Shuvikash Patel
+ * @author Adarsh Chauhan
  */
 public class Welcome extends javax.swing.JFrame {
 
