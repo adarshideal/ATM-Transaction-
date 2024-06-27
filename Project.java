@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Shuvikash Patel
+ * @author Adarsh Chauhan
  */
 public class Project extends javax.swing.JFrame {
 
