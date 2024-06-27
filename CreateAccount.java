@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Shuvikash Patel
+ * @author Adarsh Chauhan
  */
 public class CreateAccount extends javax.swing.JFrame {
 
