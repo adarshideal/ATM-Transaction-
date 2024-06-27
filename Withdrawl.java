@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Shuvikash Patel
+ * @author Adarsh Chauhan
  */
 public class Withdrawl extends javax.swing.JFrame {
 
